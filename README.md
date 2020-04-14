@@ -12,29 +12,31 @@ Within these lessons, I will go through the following topics:
   - Static graphs, dynamic graph, automatic differentiation
   - Tensors
   - Autograd
-  - Linear model for spiral data
-  - NN for spiral data
-  - CPU vs GPU 
 
 - Lesson 2:
-- - Importing CIFAR10
+- - Linear model for spiral data
+  - NN for spiral data
+  - Importing CIFAR10
+  - Set up for using GPU
   - Classification of CIFAR10 with a FCNN
   - torch.nn, nn.Module, nn.functionals, optim
-  - Convolutional layers
-  - Pooling layers
-  - Simple CNN (scrambled vs not scrambled)
-  - Writing a resnet-like
-  - Importing a pretrained model
-  - Transfer learning and fine tuning
 
 - Lesson 3:
-- - Handling data: Dataset and DataLoader
+- - Convolutional layers
+  - Pooling layers
+  - Simple CNN (scrambled vs not scrambled)
+  - Writing new blocks
+  - Saving and loading a model
+
+- Lesson 4:
+- - Importing a pretrained model
+  - Transfer learning and fine tuning
   - Recurrent neural networks
   - LSTM
   - NLP model
 
-- Lesson 4:
-- - Generative models
-
 - Lesson 5:
-- - Some useful libraries
+- - Handling data: Dataset and DataLoader
+  - Performing data augmentation
+  - Generative models
+  - Some useful libraries 
