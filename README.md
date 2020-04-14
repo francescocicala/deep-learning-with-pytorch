@@ -1,6 +1,7 @@
-### Deep Learning with [PyTorch](https://pytorch.org/docs/stable/index.html)
+## Deep Learning with [PyTorch](https://pytorch.org/docs/stable/index.html)
+
 ### aka
-# How to not waste your time in coding artificial neural networks
+## How to not waste your time in coding artificial neural networks
 
 This repository contains the resources for some practical lessons about the Deep Learning part of the Statistical Machine Learning course, held by Prof. Luca Bortolussi for the MSc students in Data Science and Scientific Computing at the University of Trieste.
 
