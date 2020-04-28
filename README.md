@@ -5,7 +5,9 @@
 
 This repository contains the resources for some practical lessons about the Deep Learning part of the Statistical Machine Learning course, held by Prof. Luca Bortolussi for the MSc students in Data Science and Scientific Computing at the University of Trieste.
 
-Within these lessons, I will go through the following topics:
+My email: francesco.cicala00@gmail.com
+
+Lectures index (approximately):
 
 - Lesson 1:
 - - Why do we need a deep learning library
