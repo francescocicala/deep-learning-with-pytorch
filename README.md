@@ -20,8 +20,7 @@ Lectures index (approximately):
 - - Linear model for spiral data
   - NN for spiral data
   - Importing CIFAR10
-  - Set up for using GPU
-  - Classification of CIFAR10 with a FCNN
+  - Classification on CIFAR10 with a FCNN
   - torch.nn, nn.Module, nn.functionals, optim
 
 - Lesson 3:
