@@ -34,11 +34,11 @@ Lectures index (approximately):
 - - A simple recurrent cell from scratch
   - Create your Dataset
   - Learning rate scheduler
-
+- Image classification with a RNN
+  
 - Lesson 5:
 - - Uploading your own dataset with ImageFolder
   - Data augmentation through on the fly random transformations
   - Importing a pretrained model
   - Early stopping
   - Fine tuning
-  - Some useful libraries 
