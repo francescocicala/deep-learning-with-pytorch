@@ -27,18 +27,18 @@ Lectures index (approximately):
 - - Convolutional layers
   - Pooling layers
   - Simple CNN (scrambled vs not scrambled)
-  - Writing new blocks
+  - Derive new blocks from nn.Module
   - Saving and loading a model
 
 - Lesson 4:
-- - Importing a pretrained model
-  - Transfer learning and fine tuning
-  - Recurrent neural networks
-  - LSTM
-  - NLP model
+- - A simple recurrent cell from scratch
+  - Create your Dataset
+  - Learning rate scheduler
 
 - Lesson 5:
-- - Handling data: Dataset and DataLoader
-  - Performing data augmentation
-  - Generative models
+- - Uploading your own dataset with ImageFolder
+  - Data augmentation through on the fly random transformations
+  - Importing a pretrained model
+  - Early stopping
+  - Fine tuning
   - Some useful libraries 
